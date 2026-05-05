@@ -1,0 +1,6 @@
+# pg_avac extension
+comment = 'Automatic vacuum manager with monitoring and notifications'
+default_version = '1.0'
+module_pathname = '$libdir/pg_avac'
+relocatable = false
+superuser = true
